@@ -1,0 +1,17 @@
+VeriFone Tranz 420 Terminal
+
+https://www.elect-mer.com/verifone-tranz-420/
+http://www.infomerchant.net/creditcardprocessing/pos_terminals/verifone/tranz-420-ccterm.html
+http://www.infomerchant.net/creditcardprocessing/pos_terminals/verifone/tranz420.html
+
+
+27c256 eprom
+
+32k x 8 = 256k
+
+data sheet
+http://esd.cs.ucr.edu/webres/27c256.pdf
+
+guide
+https://www.nycresistor.com/2012/07/07/stick-a-straw-in-its-brain-and-suck-how-to-read-a-rom/
+
