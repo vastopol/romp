@@ -1,0 +1,20 @@
+RC2014 Pro Pageable ROM Module
+
+https://rc2014.co.uk/
+https://rc2014.co.uk/modules/pageable-rom/
+http://rc2014.co.uk/1515/decoding-rom-labels/
+https://rc2014.co.uk/1716/basic-cp-m-romwbw-or-small-computer-monitor/
+
+27C512 64k PROM
+
+marked with label:
+    24006000
+
+2 – Microsoft BASIC, for 32k RAM, SIO/2, with origin 0x0000
+4 – Microsoft BASIC, for 56k RAM, SIO/2, with origin 0x0000
+6 – CP/M Monitor, for pageable ROM, 64k RAM, SIO/2, CF Module at 0x10, with origin at 0x0000
+
+----------------------------------------
+
+failed to extract the image with the arduino mega method
+
