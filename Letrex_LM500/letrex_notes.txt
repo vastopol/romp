@@ -1,0 +1,24 @@
+Letrex LM-500 Lettering Machine
+
+
+CPU: NEC V20 D70108C-8
+Intel 8088 clone
+
+
+2 socketed chips onboard
+
+* 27C512 EPROM
+
+    marked with label:
+        LM-500
+        IC 5
+        V. L
+        UL
+
+* M37450E4SP  8192 Byte PROM
+
+    marked with label:
+        MAX LM-500R262
+
+----------------------------------------
+
