@@ -4,19 +4,19 @@ https://www.elect-mer.com/verifone-tranz-420/
 http://www.infomerchant.net/creditcardprocessing/pos_terminals/verifone/tranz-420-ccterm.html
 http://www.infomerchant.net/creditcardprocessing/pos_terminals/verifone/tranz420.html
 
+----------------------------------------
+
 27c256 32k EPROM
+
+This chip doesn't have a chip id!
+possible 27C256@28DIP chips
+can read it as either:
+    CY27C256@DIP28
+    DPV27C256@DIP28
 
 marked with label:
     TRANZ 420
     3.70  SUM=9F61
 
 ----------------------------------------
-
-trying to identify potential locations or data/subroutines
-gathering all the points in the dump which refer to absolute positions
-
-call -> subroutines
-ld   -> data
-
-
 

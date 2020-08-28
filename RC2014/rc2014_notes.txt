@@ -5,9 +5,14 @@ https://rc2014.co.uk/modules/pageable-rom/
 http://rc2014.co.uk/1515/decoding-rom-labels/
 https://rc2014.co.uk/1716/basic-cp-m-romwbw-or-small-computer-monitor/
 
+----------------------------------------
+
+AT27C512R@DIP28
+Chip ID OK: 0x1E0D
+
 27C512 64k PROM
 
-marked with label:
+marked with label
     24006000
 
 2 – Microsoft BASIC, for 32k RAM, SIO/2, with origin 0x0000
@@ -16,5 +21,4 @@ marked with label:
 
 ----------------------------------------
 
-failed to extract the image with the arduino mega method
 
