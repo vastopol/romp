@@ -1,0 +1,13 @@
+SIIG 
+
+SCSI dual IDE
+
+----------
+
+HT27C512
+
+----------
+
+Silicon Image SiI0649CL160 processor
+
+V 3.0

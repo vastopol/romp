@@ -1,0 +1,19 @@
+Tekram Technologies
+DC-395UW
+
+Ultra SCSI 50 pin
+Ultra Wide 68 pin
+
+----------
+
+F29C51001T@DIP32
+Chip ID OK: 0x4001
+
+----------
+
+1995
+
+Rev 3.03 Flash
+Rev 1.02 Board
+
+Tekram TRM-S1040E processor

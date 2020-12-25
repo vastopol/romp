@@ -1,0 +1,23 @@
+Adaptec
+AHA-2940AU
+ASSY 967106-00
+FCC ID: FGT2940AU
+
+----------
+
+CY27C256@DIP28
+
+label:
+
+    589247-00 C
+    BIOS 2400
+    1996
+    V 1.30
+
+----------
+
+Adaptec AIC-7860Q controller chip
+
+AHA-2940AU
+984300-01 C
+9735

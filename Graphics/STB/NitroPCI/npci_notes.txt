@@ -1,0 +1,21 @@
+STB Systems
+Nitro PCI 1.5
+FCC ID: EKSUSA5434PCI
+
+----------
+
+AT27C256R@DIP28
+Chip ID OK: 0x1E8C
+
+----------
+
+front sticker:
+    1X0-0279-007
+    18
+    2/1996
+
+other Front sticker:
+    2MB
+
+cirrus logic chip
+CL-GD5434-J-QC-F

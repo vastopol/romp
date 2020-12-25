@@ -7,10 +7,10 @@ https://rc2014.co.uk/1716/basic-cp-m-romwbw-or-small-computer-monitor/
 
 ----------------------------------------
 
+27C512 64k PROM
+
 AT27C512R@DIP28
 Chip ID OK: 0x1E0D
-
-27C512 64k PROM
 
 marked with label
     24006000
@@ -20,5 +20,4 @@ marked with label
 6 – CP/M Monitor, for pageable ROM, 64k RAM, SIO/2, CF Module at 0x10, with origin at 0x0000
 
 ----------------------------------------
-
 

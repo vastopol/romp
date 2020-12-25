@@ -1,0 +1,20 @@
+Genoa
+398765-11
+FCC ID: DXLDP172
+
+----------
+
+27C256PC-12
+
+Invalid Chip ID: expected 0x898C, got 0xC210 (MX27C256@DIP28)
+
+MX27C256@DIP28
+Chip ID OK: 0xC210
+
+----------
+
+SN0547677
+DP172-7R2N-1197
+
+S3 Vision Trio64+ chip
+

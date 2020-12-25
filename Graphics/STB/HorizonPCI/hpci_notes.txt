@@ -1,0 +1,22 @@
+STB Systems
+Horizon+ PCI 1.31
+FCC ID: EKSUSA5434PCI
+
+----------
+
+M27C256B@DIP28
+Chip ID OK: 0x208D
+
+----------
+
+front sticker:
+    1X0-0302-307
+    18
+    44/1994
+
+back sticker:
+    2774353
+    11/17/94
+
+cirrus logic chip
+CL-GD5430-1MB-Q-Y

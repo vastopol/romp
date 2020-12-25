@@ -1,0 +1,17 @@
+Diamond Multimedia
+Stealth 64 Video VRAM PCI
+FCC ID: FTUPCI968524
+
+----------
+
+M27C256B@DIP28
+Chip ID OK: 0x208D
+
+----------
+
+1995
+
+Stealth64 V 3.00
+
+S3 Vision 968 chip
+

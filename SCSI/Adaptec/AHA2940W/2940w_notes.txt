@@ -1,0 +1,17 @@
+Adaptec
+AHA-2940W
+ASSY 571006-00
+FCC ID: FGT2940W
+
+----------
+
+AM27C512@DIP28
+Chip ID OK: 0x0191
+
+----------
+
+Adaptec AIC-7870P controller chip
+
+AHA-2940W
+596800-01 A
+9524

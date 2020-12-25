@@ -1,0 +1,30 @@
+Adaptec
+AHA-2940AU
+ASSY 967106-07
+FCC ID: FGT2940AU
+
+----------
+
+M27C512@DIP28
+
+label:
+
+    589203-00-R A
+    BIOS 1000
+    1998
+    V 1.34.2
+
+----------
+
+Adaptec AIC-7860Q controller chip
+
+have 2 of these
+Files bios1000g.bin and bios1000h.bin are identical
+
+AHA-2940AU
+984300-R H
+0925
+
+AHA-2940AU
+984300-R G
+0738

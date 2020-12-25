@@ -9,10 +9,18 @@ Read firmware with a Minipro TL866II+
 
 ## Dumps
 
-* Z80
-    * VeriFone Tranz 420 Terminal
-    * RC2014 Pro Pageable ROM Module
-
-* V20 / 8088
+* Business Devices
+    * VeriFone Tranz 420 Terminal Payment System
     * Letrex LM-500 Lettering Machine
 
+* Retro Computers
+    * RC2014 Pro Pageable ROM Module
+
+* Controller Cards
+    * SCSI
+    * Graphics
+    * Modem
+
+* Power Supplies
+    * APC
+    * Tripp Lite

@@ -1,0 +1,41 @@
+SiS 6326 chip
+
+3 of these in different configs?
+
+----------
+
+Green 1 card
+
+    A276308A@DIP28
+    Chip ID OK: 0x372C
+
+    SIS 6326 PCI 8MB
+    8A6O00006937
+
+    AGP6326 REV:A
+
+
+Green 2 card (no mount)
+
+    A276308@DIP28
+    WARNING: Chip ID mismatch: expected 0x373D, got 0xFFFF (unknown)
+
+    SIS 6326 4MB
+    8061099028918 
+
+    AGP6326 REV:A
+
+
+Yellow card
+
+    AT27C256R@DIP28
+    Chip ID OK: 0x1E8C
+
+    C326PS VER:2.1
+    SN: C11G191604
+
+----------
+
+
+SiS chip dates at 1998
+

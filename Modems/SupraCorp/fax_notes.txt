@@ -1,0 +1,27 @@
+Supra Corp 30-0102-1
+96/144 Internal Fax Modem
+
+----------
+
+NM27C010@DIP32
+Chip ID OK: 0x8F86
+
+Label:
+    102-13B
+    1.510-L02
+
+Under label marks:
+    E9442ZA
+    NM27C010N
+    70
+
+Under side marks:
+    EB1 (C)
+    ZX05KM3AH
+
+----------
+
+1993 
+
+Rockwell processor C2900-12
+

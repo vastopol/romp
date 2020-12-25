@@ -1,8 +1,5 @@
 Letrex LM-500 Lettering Machine
 
-CPU: NEC V20 D70108C-8
-Intel 8088 clone
-
 ----------------------------------------
 
 2 socketed ROM chips:
@@ -23,6 +20,8 @@ Intel 8088 clone
     
 ----------------------------------------
 
+CPU: NEC V20 D70108C-8
+Intel 8088 clone
 
-
-
+second custom chip in DIP package needs special reader, 
+chip is too long to fit in TL866

@@ -9,7 +9,6 @@ http://www.infomerchant.net/creditcardprocessing/pos_terminals/verifone/tranz420
 27c256 32k EPROM
 
 This chip doesn't have a chip id!
-possible 27C256@28DIP chips
 can read it as either:
     CY27C256@DIP28
     DPV27C256@DIP28

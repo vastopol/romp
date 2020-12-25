@@ -1,0 +1,40 @@
+3 versions of the same board
+using Nvidia RIVA TNT2 64 chip
+
+----------
+
+PNY Technologies
+
+    HT27C512-70
+
+    PNY ASSY NO
+    TNT2M6432SPCI
+    7235020044290
+    VCT64P32SPB
+
+
+AOPEN
+
+    HT27C512-70
+
+    Model M64 AGP
+    P/N 90.05210.864
+    S/N 20704597SHEI
+
+    TNT2 M64 32MB
+    733202020035
+
+unmarked
+
+    ICE23LM005-70DC-132
+
+    TNT2 M64 32MB
+    733402037681
+
+----------
+
+Files PNY_TNT2.bin and Aopen_TNT2.bin are identical
+
+not sure how to read the 512k mask rom
+tried this ICE27LC512@DIP28
+not an exact match but got something

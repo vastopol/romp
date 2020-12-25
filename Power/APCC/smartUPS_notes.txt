@@ -1,0 +1,26 @@
+Smart UPS
+
+1 Large
+2 Small
+
+----------
+
+Smart UPS SC
+    P87C51FB
+    
+    Overcurrent protection!
+
+Smart UPS 3G
+    P87C52EBPN
+
+    closest thing 
+    P87C52U
+
+unmarked 
+    L243PX25F
+
+    Overcurrent protection!
+
+----------
+
+dont know about the unmarked chip ?

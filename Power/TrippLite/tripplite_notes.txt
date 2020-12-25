@@ -1,0 +1,17 @@
+Tripp Lite
+
+----------
+
+PIC18F4455@DIP40
+Chip ID OK: 0x0091 Rev.0x07
+
+marks:
+    FW-2361LFD
+
+----------
+
+chip contains: 
+    code
+    data
+    fuses
+
